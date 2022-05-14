@@ -41,3 +41,6 @@ Thumbs.db
 #Drawio files
 .drawio
 aws-notification-bot
+
+#ENV Variables
+.env
